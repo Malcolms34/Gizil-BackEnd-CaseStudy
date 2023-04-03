@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KfX4kZDvQIKY/WSK/gGZYzKaV5qFoqKIK/vkI9M8satWH5ilRKo/Xj5EFz9Ec4y7ogJiqSYrZDDUX7/QFm2Rkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mustafa\\Desktop\\RobotVavuumCleanerApplication\\RobotVavuumCleanerApplication\\RobotVacuumCleanerApp\\Gizil-BackEnd-CaseStudy\\RobotVacuumCleanerApp\\RobotVacuumCleanerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mustafa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
